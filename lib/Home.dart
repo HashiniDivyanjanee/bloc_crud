@@ -1,4 +1,4 @@
-import 'package:bloc_crud/bloc/bloc/user_list_bloc.dart';
+import 'package:bloc_crud/bloc/user/user_list_bloc.dart';
 import 'package:bloc_crud/model/user.dart';
 import 'package:bloc_crud/widget/text_filed_widget.dart';
 import 'package:flutter/material.dart';
